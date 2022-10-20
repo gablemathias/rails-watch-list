@@ -50,6 +50,9 @@ gem "sassc-rails"
 
 gem "dotenv-rails", groups: [:development, :test]
 
+gem "cloudinary"
+
+
 ## Added Gems - Prefixer, Font-awesome, Simpleform
 
 gem "autoprefixer-rails"
